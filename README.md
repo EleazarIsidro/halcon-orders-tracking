@@ -13,7 +13,7 @@ The system must display:
 
 ## Objective
 Build a web application that:
-1) Allows customers to track their order status using Customer Number + Invoice Number.
+1) Allows customers to track their order status using Customer Number + Invoice Number.s
 2) Provides an administrative dashboard for company personnel to manage orders and users by role.
 3) Enforces the order life cycle and role-based permissions (especially photo upload by Route department).
 
@@ -28,7 +28,7 @@ Build a web application that:
 ## Order statuses (life cycle)
 1. **Ordered**: created by Sales.
 2. **In process**: managed by Warehouse (and Purchasing if stock is missing).
-3. **In route**: order loaded and ready for distribution.
+3. **In route**: order loaded and re ady for distribution.
 4. **Delivered**: delivered to customer; evidence photo available.
 
 ## LO1 Scope (Deliverable)
